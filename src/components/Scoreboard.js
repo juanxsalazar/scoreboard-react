@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class HelloWorld extends Component {
+class Scoreboard extends Component {
   render() {
     return <div>
          <h1>My Score Board</h1>
@@ -8,4 +8,4 @@ class HelloWorld extends Component {
   }
 }
 
-export default HelloWorld
+export default Scoreboard
